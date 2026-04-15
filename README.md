@@ -13,4 +13,4 @@ HTML | CSS | JavaScript | GitHub Pages
 - E-Commerce UI Design  
 
 ## 🌐 Live
-[https://yourusername.github.io/simran-portfolio](https://simran-yadav20.github.io/Simran-portfolio/)
+(https://simran-yadav20.github.io/Simran-portfolio/)
